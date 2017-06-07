@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/client1/桌面/robocup3D标准平台安装/robocup3D/robocup3D/simspark-0.2.4/utility/libb64/cdecode.c
+cdecode.h
+/home/client1/桌面/robocup3D标准平台安装/robocup3D/robocup3D/simspark-0.2.4/utility/libb64/cdecode.h
+
+/home/client1/桌面/robocup3D标准平台安装/robocup3D/robocup3D/simspark-0.2.4/utility/libb64/cdecode.h
+
+/home/client1/桌面/robocup3D标准平台安装/robocup3D/robocup3D/simspark-0.2.4/utility/libb64/cencode.c
+cencode.h
+/home/client1/桌面/robocup3D标准平台安装/robocup3D/robocup3D/simspark-0.2.4/utility/libb64/cencode.h
+
+/home/client1/桌面/robocup3D标准平台安装/robocup3D/robocup3D/simspark-0.2.4/utility/libb64/cencode.h
+

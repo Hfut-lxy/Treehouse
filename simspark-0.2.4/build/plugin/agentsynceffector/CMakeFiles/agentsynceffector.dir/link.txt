@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared  -o agentsynceffector.so CMakeFiles/agentsynceffector.dir/export.cpp.o CMakeFiles/agentsynceffector.dir/agentsynceffector.cpp.o CMakeFiles/agentsynceffector.dir/agentsynceffector_c.cpp.o 

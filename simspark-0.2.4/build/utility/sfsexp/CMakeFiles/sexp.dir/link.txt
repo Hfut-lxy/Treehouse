@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsexp.a  CMakeFiles/sexp.dir/cstring.c.o CMakeFiles/sexp.dir/faststack.c.o CMakeFiles/sexp.dir/io.c.o CMakeFiles/sexp.dir/parser.c.o CMakeFiles/sexp.dir/sexp.c.o CMakeFiles/sexp.dir/sexp_ops.c.o
+/usr/bin/ranlib libsexp.a

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared  -o filesystemzip.so CMakeFiles/filesystemzip.dir/export.cpp.o CMakeFiles/filesystemzip.dir/filesystemzip.cpp.o CMakeFiles/filesystemzip.dir/filesystemzip_c.cpp.o -lboost_regex -lz 

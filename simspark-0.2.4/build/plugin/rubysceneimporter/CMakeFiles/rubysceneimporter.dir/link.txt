@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared  -o rubysceneimporter.so CMakeFiles/rubysceneimporter.dir/export.cpp.o CMakeFiles/rubysceneimporter.dir/rubysceneimporter.cpp.o CMakeFiles/rubysceneimporter.dir/rubysceneimporter_c.cpp.o ../../utility/sfsexp/libsexp.a 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libsalt.so.1 -o libsalt.so.1.0.0 CMakeFiles/salt.dir/bounds.cpp.o CMakeFiles/salt.dir/fileclasses.cpp.o CMakeFiles/salt.dir/frustum.cpp.o CMakeFiles/salt.dir/matrix.cpp.o CMakeFiles/salt.dir/path.cpp.o CMakeFiles/salt.dir/plane.cpp.o CMakeFiles/salt.dir/sharedlibrary.cpp.o ../../utility/libobj/liblibobject.a 

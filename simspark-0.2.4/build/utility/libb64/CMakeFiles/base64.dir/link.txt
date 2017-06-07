@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG   CMakeFiles/base64.dir/base64.cc.o  -o base64 -rdynamic libb64.a 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared  -o filesystemstd.so CMakeFiles/filesystemstd.dir/export.cpp.o CMakeFiles/filesystemstd.dir/filesystemstd.cpp.o CMakeFiles/filesystemstd.dir/filesystemstd_c.cpp.o 

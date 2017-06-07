@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libtinyxml_ex.so.0 -o libtinyxml_ex.so.0.0.0 CMakeFiles/tinyxml_ex.dir/tinyxml.cpp.o CMakeFiles/tinyxml_ex.dir/tinyxmlerror.cpp.o CMakeFiles/tinyxml_ex.dir/tinyxmlparser.cpp.o CMakeFiles/tinyxml_ex.dir/xmlfunctions.cpp.o 

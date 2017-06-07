@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared  -o objimporter.so CMakeFiles/objimporter.dir/export.cpp.o CMakeFiles/objimporter.dir/objimporter.cpp.o CMakeFiles/objimporter.dir/objimporter_c.cpp.o 

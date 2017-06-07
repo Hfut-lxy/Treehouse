@@ -1,0 +1,2 @@
+/usr/bin/ar qc libb64.a  CMakeFiles/b64.dir/cdecode.c.o CMakeFiles/b64.dir/cencode.c.o
+/usr/bin/ranlib libb64.a

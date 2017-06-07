@@ -1,0 +1,43 @@
+Graphics Settings:
+Bloom                : true
+Phong                : true
+Shadows              : true
+Soft Shadows         : true
+Shadow Resolution    : 1024
+Stereo 3D            : false
+V-Sync               : false
+FSAA                 : true
+FSAA Samples         : 8
+Target FPS           : 60
+First Person FOV     : 120
+Third Person FOV     : 80
+Frame Width          : 1024
+Frame Height         : 768
+Frame X              : 0
+Frame Y              : 0
+Center Frame         : true
+Frame Maximized      : false
+Save Frame State     : true
+
+Overlay Default Visibility:
+Server Speed         : true
+Foul Overlay         : true
+Field Overlay        : false
+Number of Players    : false
+Player IDs           : false
+
+Networking Settings:
+Auto-Connect         : true
+Auto-Connect Delay   : 1000
+Server Hosts         : localhost
+Server Port          : 3200
+Drawing Port         : 32769
+
+General Settings:
+Record Logfiles      : false
+Logfile Directory    : 
+
+Team Colors:
+<Right>              : 0xff2626
+<Left>               : 0x2626ff
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared  -o sceneeffector.so CMakeFiles/sceneeffector.dir/export.cpp.o CMakeFiles/sceneeffector.dir/sceneeffector.cpp.o CMakeFiles/sceneeffector.dir/sceneeffector_c.cpp.o 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,librcssnet3D.so.0 -o librcssnet3D.so.0.1.0 CMakeFiles/rcssnet3D.dir/addr.cpp.o CMakeFiles/rcssnet3D.dir/exception.cpp.o CMakeFiles/rcssnet3D.dir/handler.cpp.o CMakeFiles/rcssnet3D.dir/socket.cpp.o CMakeFiles/rcssnet3D.dir/tcpsocket.cpp.o CMakeFiles/rcssnet3D.dir/udpsocket.cpp.o 

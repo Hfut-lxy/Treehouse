@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared  -o openglsyssdl.so CMakeFiles/openglsyssdl.dir/export.cpp.o CMakeFiles/openglsyssdl.dir/openglsystemsdl.cpp.o CMakeFiles/openglsyssdl.dir/openglsystemsdl_c.cpp.o -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL -lpthread 

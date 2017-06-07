@@ -1,0 +1,7 @@
+/bin
+*.iml
+.idea/
+.settings/
+screenshots/
+logfiles/
+roboviz.bat
